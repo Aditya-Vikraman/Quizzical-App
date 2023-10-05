@@ -101,7 +101,7 @@ export default function QuizApp () {
           className="start-button"
           onClick={startGame}
         >
-          Play again
+          Play Again
           </button>}
       </div>
     </main>
